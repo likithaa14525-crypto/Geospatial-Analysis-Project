@@ -1,0 +1,11 @@
+Region,Latitude,Longitude,Sales,DemandLevel,StorePresence
+Hyderabad,17.3850,78.4867,50000,High,Yes
+Bangalore,12.9716,77.5946,70000,High,Yes
+Chennai,13.0827,80.2707,45000,Medium,No
+Mumbai,19.0760,72.8777,90000,High,Yes
+Pune,18.5204,73.8567,60000,High,No
+Delhi,28.7041,77.1025,85000,High,Yes
+Visakhapatnam,17.6868,83.2185,40000,Medium,No
+Vijayawada,16.5062,80.6480,55000,High,No
+Kolkata,22.5726,88.3639,30000,Low,Yes
+Ahmedabad,23.0225,72.5714,65000,High,No
